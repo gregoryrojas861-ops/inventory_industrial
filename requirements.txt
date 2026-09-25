@@ -1,0 +1,13 @@
+streamlit>=1.40,<2
+SQLAlchemy>=2.0,<3
+pandas>=2.2,<3
+numpy>=1.26,<3
+scikit-learn>=1.5,<2
+plotly>=5.24,<7
+openpyxl>=3.1,<4
+reportlab>=4.2,<5
+qrcode[pil]>=8,<9
+bcrypt>=4.2,<6
+pytest>=8,<9
+python-dotenv>=1.0,<2
+Pillow>=10,<12
